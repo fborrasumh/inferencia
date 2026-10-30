@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "InferencIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Peña Benitez"
+    given-names: "Jhon Jairo"
+    affiliation: "Universidad Politécnica Estatal del Carchi (UPEC), Ecuador"
+    orcid: "https://orcid.org/0000-0002-0064-1436"
+doi: "10.5281/zenodo.23803718"
+version: "1.0.0"
+date-released: "2026-10-30"
+url: "https://fborrasumh.github.io/inferencia/"
+repository-code: "https://github.com/fborrasumh/inferencia"
+license: MIT

@@ -4,6 +4,8 @@ Laboratorio de estadística inferencial y diseño experimental agropecuario. Apl
 
 **Usar la app:** https://fborrasumh.github.io/inferencia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23803718.svg)](https://doi.org/10.5281/zenodo.23803718)
+
 **Idiomas:** español (por defecto), inglés, portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -114,7 +116,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Peña Benitez, J. J. (2026). *InferencIA* (v1.0.0) [Software].
+Borrás Rocher, F. y Peña Benitez, J. J. (2026). *InferencIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23803718](https://doi.org/10.5281/zenodo.23803718)
 
 ## Licencia
 

@@ -1,0 +1,75 @@
+{
+  "slug": "inferencia",
+  "name": "InferencIA",
+  "tagline": "Laboratorio de estadística inferencial y diseño experimental agropecuario",
+  "description": "Práctica adaptativa con ejercicios únicos corregidos por código, laboratorio de ANAVAR (DCA, DBCA, cuadrado latino, factorial, cross-over) con script R equivalente y tutor IA opcional que no da resultados. Español, inglés y portugués; funciona sin conexión.",
+  "eyebrow": "Estadística Inferencial y Diseño Experimental · Carrera de Agropecuaria · UPEC",
+  "h1": "Diseña y analiza experimentos agropecuarios, *con cada cálculo comprobado por el código*",
+  "lede": "Practica con ejercicios únicos que corrige el código y detectan tus errores típicos; analiza los datos de tu proyecto de aula (ANAVAR, supuestos, comparaciones múltiples, regresión) y contrasta el resultado con el script R que genera la app. La IA es opcional: explica, nunca calcula ni pone nota.",
+  "logo_icon": "chart",
+  "ia": true,
+  "lang": "es",
+  "langs": [
+    "es",
+    "en",
+    "pt"
+  ],
+  "i18n": {
+    "en": {
+      "title": "InferencIA · Inferential statistics and agricultural experimental design lab",
+      "eyebrow": "Inferential Statistics and Experimental Design · Agricultural Sciences degree · UPEC",
+      "h1": "Design and analyse agricultural experiments, *with every calculation checked by the code*",
+      "lede": "Practise with unique exercises marked by the code, which also detects your typical mistakes; analyse your class-project data (ANOVA, assumptions, multiple comparisons, regression) and check the result against the R script the app generates. The AI is optional: it explains, it never calculates or grades."
+    },
+    "pt": {
+      "title": "InferencIA · Laboratório de estatística inferencial e delineamento experimental agropecuário",
+      "eyebrow": "Estatística Inferencial e Delineamento Experimental · Curso de Agropecuária · UPEC",
+      "h1": "Planeie e analise experiências agropecuárias, *com cada cálculo verificado pelo código*",
+      "lede": "Pratique com exercícios únicos corrigidos pelo código, que deteta os seus erros típicos; analise os dados do seu projeto de aula (ANOVA, pressupostos, comparações múltiplas, regressão) e compare o resultado com o script R que a app gera. A IA é opcional: explica, nunca calcula nem dá nota."
+    }
+  },
+  "authors": [
+    {
+      "name": "Fernando Borrás Rocher",
+      "orcid": "0000-0002-5519-4573",
+      "affiliation": "Universidad Miguel Hernández de Elche",
+      "given": "Fernando",
+      "family": "Borrás Rocher"
+    },
+    {
+      "name": "Jhon Jairo Peña Benitez",
+      "orcid": "0000-0002-0064-1436",
+      "affiliation": "Universidad Politécnica Estatal del Carchi (UPEC), Ecuador",
+      "given": "Jhon Jairo",
+      "family": "Peña Benitez"
+    }
+  ],
+  "idea_credit": "A partir del sílabo de Estadística Inferencial y Diseño Experimental (Carrera de Agropecuaria, nivel 06, UPEC, PAO 2026 B) del profesor Jhon Jairo Peña Benitez.",
+  "modules": [
+    "00-utils",
+    "10-persist",
+    "20-providers",
+    "30-verify",
+    "60-nav",
+    "65-i18n",
+    "70-report"
+  ],
+  "app_js": [
+    "curriculum.js",
+    "stats.js",
+    "nucleo.js",
+    "app.js"
+  ],
+  "catalog": {
+    "cat": "doc",
+    "icon": "ti-chart-dots",
+    "sub_es": "Laboratorio de estadística inferencial y diseño experimental agropecuario",
+    "desc_es": "Práctica adaptativa de contraste de hipótesis, supuestos, elección de diseño, ANAVAR (DCA, DBCA, cuadrado latino), factoriales 2ᵏ y 3ᵏ, comparaciones múltiples (MDS, Duncan, Tukey, Dunnett) y regresión. Cada ejercicio es único, lo corrige el código y detecta errores típicos. Laboratorio de ANAVAR con los datos del proyecto de aula, supuestos, letras de significación, croquis de aleatorización y script R equivalente. La IA, opcional, explica sin dar resultados y comenta el informe comprobando citas y cifras. Funciona sin conexión, en español, inglés y portugués, con panel para el profesorado. A partir del sílabo de Estadística Inferencial y Diseño Experimental (UPEC) de Jhon Jairo Peña Benitez.",
+    "tit_es": "Estadística Inferencial y Diseño Experimental · Carrera de Agropecuaria (UPEC)",
+    "comp_es": "Contraste de hipótesis · Supuestos del ANAVAR · Diseño de experimentos · ANAVAR · Factoriales · Comparaciones múltiples · Regresión · R",
+    "sub_en": "Inferential statistics and agricultural experimental design lab",
+    "desc_en": "Adaptive practice of hypothesis testing, assumptions, design choice, ANOVA (CRD, RCBD, Latin square), 2ᵏ and 3ᵏ factorials, multiple comparisons (LSD, Duncan, Tukey, Dunnett) and regression. Every exercise is unique, marked by the code, which detects typical mistakes. ANOVA lab for class-project data, with assumptions, significance letters, randomisation layouts and the equivalent R script. The optional AI explains without giving results and comments on the report, with quotes and figures checked by the code. Works offline, in Spanish, English and Portuguese, with a teacher dashboard. Based on the Inferential Statistics and Experimental Design syllabus (UPEC) by Jhon Jairo Peña Benitez.",
+    "tit_en": "Inferential Statistics and Experimental Design · Agricultural Sciences degree (UPEC)",
+    "comp_en": "Hypothesis testing · ANOVA assumptions · Experimental design · ANOVA · Factorials · Multiple comparisons · Regression · R"
+  }
+}
